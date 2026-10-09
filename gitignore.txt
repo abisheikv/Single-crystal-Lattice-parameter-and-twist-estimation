@@ -1,0 +1,17 @@
+# outputs
+supplementary_output/
+# data (keep raw data out of the repository)
+data/
+*.tif
+*.tiff
+*.h5
+*.hdf5
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# OS
+.DS_Store
+Thumbs.db
